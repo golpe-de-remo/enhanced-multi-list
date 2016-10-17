@@ -5,11 +5,11 @@ Get multi-listing to the maximum power
 THE LIST WITH MANY FACES
 Task
 
-    Apply some good CSS to make the list even more stylish
-    Improve the App (passing values to components with Props)
-    Let's use Underscore to operate on our object arrays.
-    The buttons should be named in a more reasonable and flexible way
-    We need to be able to add more participants
+   1. Apply some good CSS to make the list even more stylish
+   2. Improve the App (passing values to components with Props)
+   3. Let's use Underscore to operate on our object arrays.
+   5. The buttons should be named in a more reasonable and flexible way
+   6. We need to be able to add more participants
     
 How to upload the prework
 
